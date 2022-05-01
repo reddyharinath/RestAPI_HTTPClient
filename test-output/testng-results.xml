@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-01T12:25:56 IST" name="Default suite" finished-at="2022-05-01T12:25:58 IST" duration-ms="1753">
+    <groups>
+    </groups>
+    <test started-at="2022-05-01T12:25:56 IST" name="Default test" finished-at="2022-05-01T12:25:58 IST" duration-ms="1753">
+      <class name="testScriptsPackage">
+        <test-method is-config="true" signature="beforeGetRequestTest()[pri:0, instance:testScriptsPackage@4e7912d8]" started-at="2022-05-01T12:25:56 IST" name="beforeGetRequestTest" finished-at="2022-05-01T12:25:56 IST" duration-ms="239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeGetRequestTest -->
+        <test-method signature="getRequestTest()[pri:0, instance:testScriptsPackage@4e7912d8]" started-at="2022-05-01T12:25:56 IST" name="getRequestTest" finished-at="2022-05-01T12:25:57 IST" duration-ms="1000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequestTest -->
+        <test-method is-config="true" signature="afterGetRequestTest()[pri:0, instance:testScriptsPackage@4e7912d8]" started-at="2022-05-01T12:25:57 IST" name="afterGetRequestTest" finished-at="2022-05-01T12:25:58 IST" duration-ms="455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterGetRequestTest -->
+      </class> <!-- testScriptsPackage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
